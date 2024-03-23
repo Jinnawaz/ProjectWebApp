@@ -1,12 +1,12 @@
 // Initialize Firebase
 const firebaseConfig = {
-    apiKey: "AIzaSyBX20gFnznMh4rs_CDZ2tXxQFuEqKLFMTw",
-    authDomain: "web2566-fd568.firebaseapp.com",
-    projectId: "web2566-fd568",
-    storageBucket: "web2566-fd568.appspot.com",
-    messagingSenderId: "8685304559",
-    appId: "1:8685304559:web:68515452e2b932eef4791a",
-    measurementId: "G-GZJF8WTT7W"
+  apiKey: "AIzaSyCnII6PNv_RRWuXrFNlU6e4zAoiDxBhifU",
+  authDomain: "web2566-f6d6b.firebaseapp.com",
+  projectId: "web2566-f6d6b",
+  storageBucket: "web2566-f6d6b.appspot.com",
+  messagingSenderId: "303233060563",
+  appId: "1:303233060563:web:39bdf9e2c71b51918e4e26",
+  measurementId: "G-XYH4NWJ94T"
 };
   
   const app = firebase.initializeApp(firebaseConfig);
